@@ -1,0 +1,10 @@
+/*
+Theme Name: Tailwind Travels
+Description: custom theme of Tailwind Travels
+Version: 1.0.0
+Text Domain: tailwindtravels
+Template: twentytwentyone
+*/
+@import url(../twentytwentyone/style.css);
+/* Header */
+.site-header { background-color:red; }
